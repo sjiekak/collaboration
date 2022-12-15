@@ -1,2 +1,3 @@
-# collaboration
-Collaboration templates
+# Collaboration
+
+Collaboration templates and guidelines
